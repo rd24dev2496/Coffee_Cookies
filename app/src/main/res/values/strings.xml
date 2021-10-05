@@ -68,6 +68,8 @@
 
     <!--Loading message-->
     <string name="done_msg">Your tea is ready!</string>
+
+
     <string name="change_text_taking_sometime">Change text taking sometime</string>
     <string name="hello_esspresso">Hello Espresso</string>
     <string name="order_summary_textview">Order Summary TextView</string>
